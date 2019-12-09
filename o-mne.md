@@ -6,6 +6,29 @@ permalink: /o-mne/
 
 Tady napiš něco o sobě nebo o svém blogu!
 
+## Tohle je nadpis!
+
+![Kotě](http://placekitten.com/g/200/300)
+
+´´´´
+Tohle je kód
+´´´
+´´´html
+<html><head>Ahoj</head></html>
+´´´
+
+Tohle je v odstaci: ´code´.
+
+- Tohle
+- je
+- bodový 
+- seznam
+
+1. Tohle
+2. je 
+3. číslovaný
+4. seznam
+
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
